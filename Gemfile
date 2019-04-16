@@ -19,6 +19,7 @@ gem 'webpacker', '~> 4.x'
 gem 'cloudinary', require: false
 gem 'activestorage-cloudinary-service'
 gem 'carrierwave', '~> 1.2'
+gem "aws-sdk-s3", require: false
 
 group :development do
   gem 'web-console', '>= 3.3.0'
