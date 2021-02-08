@@ -18,7 +18,7 @@ gem 'uglifier'
 gem 'webpacker', '~> 4.x'
 gem 'cloudinary', require: false
 gem 'activestorage-cloudinary-service'
-gem 'carrierwave', '~> 1.2'
+gem 'carrierwave', '~> 1.3'
 gem "aws-sdk-s3", require: false
 
 group :development do
