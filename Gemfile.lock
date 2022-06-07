@@ -102,7 +102,7 @@ GEM
     jbuilder (2.8.0)
       activesupport (>= 4.2.0)
       multi_json (>= 1.2)
-    jmespath (1.4.0)
+    jmespath (1.6.1)
     jquery (0.0.1)
     listen (3.0.8)
       rb-fsevent (~> 0.9, >= 0.9.4)
